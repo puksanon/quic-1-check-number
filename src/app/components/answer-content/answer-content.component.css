@@ -1,0 +1,18 @@
+.answer-content{
+    width: 300px;
+}
+
+.text-ans{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.true-text{
+    color: rgb(2, 104, 31);
+}
+
+.false-text{
+    color: rgb(149, 10, 10);
+}

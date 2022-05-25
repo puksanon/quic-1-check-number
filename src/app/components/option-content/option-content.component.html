@@ -1,0 +1,7 @@
+<div class="option-content">
+  <select class="select-input" [(ngModel)]="select_option" (change)="update()">
+    <option *ngFor="let option of option_selecter" [value]="option">
+      {{ option }}
+    </option>
+  </select>
+</div>

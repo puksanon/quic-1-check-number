@@ -1,0 +1,14 @@
+.input-content{
+    width: 200px;
+    overflow: scroll;
+}
+
+.text-input{
+    padding: 10px 7px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    width: 100%;
+    max-width: 100px;
+    display: block;
+    margin: 1em auto;
+}
